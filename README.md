@@ -21,3 +21,9 @@ Had to first run:
 * `go get golang.org/x/tour/reader` - created `go.sum` and appended to `go.mod`
 
 https://www.digitalocean.com/community/tutorials/importing-packages-in-go
+
+### Exercise: rot13Reader
+
+```sh
+go run rot13.go
+```
