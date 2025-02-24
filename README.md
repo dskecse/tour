@@ -27,3 +27,17 @@ https://www.digitalocean.com/community/tutorials/importing-packages-in-go
 ```sh
 go run rot13.go
 ```
+
+### Exercise: Images
+
+```sh
+go run images.go
+```
+
+NOTE: The `pic` package is already available as part of the
+
+```
+require golang.org/x/tour v0.1.0 // indirect
+```
+
+in `go.mod`
