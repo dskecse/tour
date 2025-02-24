@@ -41,3 +41,11 @@ require golang.org/x/tour v0.1.0 // indirect
 ```
 
 in `go.mod`
+
+### Exercise: Generic Types
+
+```sh
+go run generics.go
+```
+
+https://gobyexample.com/generics
